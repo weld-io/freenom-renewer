@@ -2,7 +2,7 @@
   "name": "freenom-renewer",
   "version": "0.0.2",
   "scripts": {
-    "start": "app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "async": "^2.0.1",
