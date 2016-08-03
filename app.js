@@ -24,6 +24,6 @@ request.get('https://api.freenom.com/v2/domain/list', {
 		}, function(err, res, body){
 			console.log(domain.domainname, body);
 			callback();
-		});								  
-	});	
-});								  
+		});
+	});
+});
